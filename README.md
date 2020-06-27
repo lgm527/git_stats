@@ -1,5 +1,10 @@
 # Git_Stats
-the baseball card for programmers
+Have you (a developer) ever been jealous of a baseball player? I mean, they have these awesome cards with their pictures and stats about how accomplished they are!
+
+Want one?
+
+Look no further, here is the baseball card for developers!
+
 
 ## Goal
 utilize the GitHub API to display the statistics of a user
