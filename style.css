@@ -3,7 +3,7 @@ body {
 }
 
 #stat_card {
-  width: 300px;
+  width: 240px;
   height: 400px;
   border: solid 5px black;
   padding: 5px;
@@ -18,14 +18,19 @@ body {
 }
 
 #avatar {
-  margin-left: 50px;
-  border-radius: 50%;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10%;
   width: 200px;
   height: 200px;
 }
 
+#octocat {
+
+}
+
 .extra_card {
-  width: 300px;
+  width: 240px;
   height: 400px;
   border: solid 5px black;
   background-color: white;
