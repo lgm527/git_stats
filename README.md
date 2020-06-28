@@ -12,7 +12,7 @@ utilize the GitHub API to display the statistics of a user
 ## Another Goal
 practice CSS animations & transitions
 
-![](https://j.gifs.com/K1Nvnl.gif)
+![](https://j.gifs.com/zvDwyO.gif)
 
 ### GitHub REST API v3
 https://developer.github.com/v3/
