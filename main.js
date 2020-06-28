@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
     console.log(user);
     document.getElementById("avatar").src = user.avatar_url;
     document.getElementById("octocat").href = user.html_url;
-    document.getElementById("username").innerText += `User: ${user.login}`;
+    document.getElementById("username").innerText = user.login;
     document.getElementById("created_at").innerText += `Coding since: ${new Date(user.created_at)}`;
     document.getElementById("repos").innerText += `Repos: ${user.public_repos}`;
     document.getElementById("gists").innerText += `Gists: ${user.public_gists}`;
