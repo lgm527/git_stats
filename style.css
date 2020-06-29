@@ -5,7 +5,7 @@ body {
 #stat_card {
   width: 240px;
   height: 400px;
-  border: solid 5px black;
+  border: 5px solid black;
   padding: 5px 10px 15px;
   z-index: 4;
   background-color: white;
@@ -13,8 +13,8 @@ body {
 
 .centered {
   position: fixed;
-  top: 25%;
-  left: 25%;
+  top: 10%;
+  left: 10%;
 }
 
 #avatar {
@@ -27,8 +27,10 @@ body {
 
 #octocat > svg {
   border-radius: 25px;
-  border: 2px solid black;
+  border: 3px solid black;
   padding: 3px;
+  margin-top: -30px;
+  background: white;
 }
 
 p {
