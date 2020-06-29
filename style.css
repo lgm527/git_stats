@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Sintony', sans-serif;
 }
 
 #stat_card {
@@ -35,6 +35,7 @@ body {
 
 p {
   margin: 0;
+  font-size: 14px;
 }
 
 #username {
