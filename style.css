@@ -38,6 +38,10 @@ p {
   font-size: 14px;
 }
 
+.right {
+  float: right;
+}
+
 #username {
   text-align: center;
   font-family: 'Zeyada', cursive;
