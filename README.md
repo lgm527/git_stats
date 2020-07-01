@@ -12,6 +12,12 @@ utilize the GitHub API to display the statistics of a user
 ## Another Goal
 practice CSS animations & transitions
 
+hard coded version === 0 JS on...
+
+codepen: https://codepen.io/lgm527/pen/rNxYPbd
+
+gist: https://gist.github.com/lgm527/3a4dfbf6f79262ecd9f829d8f801e43d
+
 ![](https://j.gifs.com/zvDwyO.gif)
 
 ### GitHub REST API v3
