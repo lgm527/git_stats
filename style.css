@@ -4,7 +4,7 @@ body {
 
 #stat_card {
   width: 230px;
-  height: 400px;
+  height: 380px;
   border: 1px solid black;
   border-radius: 5px;
   padding: 5px;
@@ -30,7 +30,7 @@ body {
 
 #octocat > svg {
   border-radius: 25px;
-  border: 3px solid black;
+  border: 2px solid black;
   padding: 3px;
   margin-top: -30px;
   background: white;
@@ -40,6 +40,7 @@ body {
   text-align: center;
   font-family: 'Zeyada', cursive;
   font-size: 30px;
+  margin-top: -25px;
 }
 
 p, span {
@@ -47,13 +48,21 @@ p, span {
   font-size: 14px;
 }
 
+span {
+  text-align: center;
+}
+
+#position {
+  font-size: 30px;
+}
+
 .right {
   float: right;
 }
 
 .extra_card {
-  width: 240px;
-  height: 400px;
+  width: 230px;
+  height: 380px;
   border: 1px solid black;
   border-radius: 5px;
   background-color: white;
