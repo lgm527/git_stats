@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("avatar").src = user.avatar_url;
     document.getElementById("octocat").href = user.html_url;
     document.getElementById("username").innerText = `@${user.login}`;
-    document.getElementById("created_at").innerText += `Coding for the Octocat's since: ${new Date(user.created_at)}`;
+    document.getElementById("created_at").innerText += `Coding for the Octocat's since ${new Date(user.created_at)}`;
     document.getElementById("repos").innerText += `${user.public_repos} Repos`;
     document.getElementById("gists").innerText += `${user.public_gists} Gists`;
   }
