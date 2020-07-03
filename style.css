@@ -1,5 +1,6 @@
 body {
   font-family: 'Sintony', sans-serif;
+  background: #e6e6e6;
 }
 
 #stat_card {
@@ -10,7 +11,7 @@ body {
   padding: 5px;
   padding-right: 5px;
   z-index: 4;
-  background-color: white;
+  background-color: #f2f2f2;
 }
 
 .centered {
@@ -33,7 +34,7 @@ body {
   border: 2px solid black;
   padding: 3px;
   margin-top: -30px;
-  background: white;
+  background: #f2f2f2;
 }
 
 #username {
@@ -65,7 +66,7 @@ span {
   height: 380px;
   border: 1px solid black;
   border-radius: 10px;
-  background-color: white;
+  background-color: #f2f2f2;
 }
 
 /* {
