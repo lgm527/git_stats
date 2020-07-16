@@ -1,4 +1,7 @@
+
+
 document.addEventListener("DOMContentLoaded", function() {
+require('dotenv').config();
 
   function fetchUser() {
     fetch("https://api.github.com/users/lgm527", {
@@ -7,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Content-Type": "application/json",
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "lgm527",
-        "Authorization": "token " + config.gh_token,
+        "Authorization": "token " + process.env.GH_TOKEN,
       }
     })
     .catch(error => console.error(error))
