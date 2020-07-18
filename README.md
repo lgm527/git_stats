@@ -14,6 +14,8 @@ practice CSS animations & transitions
 
 hard coded version === 0 JS on...
 
+glitch: https://git-stats.glitch.me/
+
 codepen: https://codepen.io/lgm527/pen/rNxYPbd
 
 gist: https://gist.github.com/lgm527/3a4dfbf6f79262ecd9f829d8f801e43d
