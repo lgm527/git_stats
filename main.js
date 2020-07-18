@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "Content-Type": "application/json",
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "lgm527",
-        "Authorization": "token " + config.gh_token,
+        "Authorization": "token " + ghToken,
       }
     })
     .catch(error => console.error(error))
